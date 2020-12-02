@@ -1,0 +1,17 @@
+.container{
+    border:solid 1px black;
+    width: 50%;
+    margin: auto;
+    text-align:center;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+
+}
+
+button{
+    width: 200px;
+    margin:auto;
+    margin-top: 30px;
+}
